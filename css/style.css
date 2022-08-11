@@ -95,6 +95,7 @@ header .info .form input[type='submit'] {
 	border: none;
 	font-size: 16px;
 	background-color: var(--main-color);
+	color: white;
 	cursor: pointer;
 }
 header .info .links {
@@ -281,6 +282,7 @@ header .info .links li:hover {
 /* Footer */
 footer {
 	background-color: var(--main-color);
+	color: white;
 }
 footer .container {
 	display: flex;
