@@ -66,3 +66,9 @@ footer {
   padding: 10px;
   text-align: center;
 }
+
+@media (max-width: 767px) {
+  .box {
+    margin: 50px 8px 85px;
+  }
+}
