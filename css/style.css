@@ -156,10 +156,11 @@ header .info .links li:hover {
 	}
 	header .info .form input {
 		width: 80%;
-		margin-bottom: 5px;
+		margin: 5px;
+		border: none;
 	}
 	header .info .menu:hover .links {
-		height: 345px;
+		height: 338px;
 	}
 }
 /* Header */
