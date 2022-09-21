@@ -159,7 +159,7 @@ header .info .links li:hover {
 		margin: 5px;
 		border: none;
 	}
-	header .info .menu:hover .links {
+	header .info .fill-hei {
 		height: 338px;
 	}
 }
